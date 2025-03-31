@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(196, 222, 245);
+}
+#navbar{
+    background-color: rgb(65, 109, 139);
+    height: 70px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.nav-item{
+    background-color: rgb(99, 142, 172);
+    margin: 5px;
+    border: 2px solid rgb(62, 105, 136);
+    border-radius: 5px;
+}
+.nav-item:hover{
+    transform: scale(1.1);
+}
+#navbar-itens{
+    color: white;
+}
+#sobre{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.titulo-sobremim{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.media-body{
+    float: left;
+    width: 80%;
+    border: 3px solid rgb(62, 105, 136);
+    padding: 10px;
+    background-color: rgb(133, 170, 196);
+
+}
+.mr-3{
+    width: 190px;
+    margin-right: 20px;
+    margin-left: 30px;
+    border-radius: 15%;
+}
+#projeto{
+    width: 100px;
+    background-color: rgb(216, 237, 255);
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 3px solid rgb(99, 142, 172);
+    border-radius: 5%;
+}
+
+.titulo-projeto{
+    margin-top: 15px;
+}
+
+.texto-projeto{
+    margin: 20px;
+}
+.titulo{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#formulario{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#input{
+    background-color: rgb(133, 170, 196);
+    border: 3px solid rgb(62, 105, 136);
+    color: rgb(23, 54, 77);
+    margin-bottom: 20px;
+}
+#btn-submit{
+    margin-left: 48%;
+    margin-bottom: 40px;
+    background-color: rgb(99, 142, 172);
+    
+}
+footer{
+    background-color: rgb(62, 105, 136);
+    height: 50px;
+    justify-items: center;
+    padding: 15px;
+}
+#direitos{
+    color: white;
+}
+
